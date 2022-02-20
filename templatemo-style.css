@@ -152,6 +152,11 @@ ul {
 .tm-top-header {
   background: black;
   color: white;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  padding: 1em;
 }
 .tm-site-logo,
  .tm-site-name {
