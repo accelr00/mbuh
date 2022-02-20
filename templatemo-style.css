@@ -1,18 +1,9 @@
-/** 
+#navbar {
+    position: fixed;
+    top: 0px;
+    width: 100%;
+}
 
-Cafe House Template
-
-http://www.templatemo.com/tm-466-cafe-house
-
-
-    
-COLOR CODES
-  Gold: #c79c60;
-*/
-
-/** Preloader 
-* https://ihatetomatoes.net/create-custom-preloading-screen/
-*/
 #loader-wrapper {
     position: fixed;
     top: 0;
